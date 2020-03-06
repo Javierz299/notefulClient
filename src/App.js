@@ -1,5 +1,5 @@
 import React from "react";
-import { Route, Link, Switch } from 'react-router-dom';
+import { Route, Link, Switch } from 'react-router-dom'; 
 import NoteList from './components/Main/NoteList';
 import NoteFull from './components/Main/NoteFull';
 import FolderList from './components/Nav/FolderList';
